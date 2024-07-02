@@ -632,37 +632,36 @@
     color: #BF9410;
   }
   .img1{
-    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(post6.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(image/post6.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .img2{
-    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(gallery7.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(image/gallery7.jpg);
     background-size: cover;
     background-repeat: no-repeat; 
   }
   .img3{
-    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(gallery6.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(image/gallery6.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .img4{
-    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(post5.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(image/post5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .img5{
-    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(post4.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .3)), url(image/post4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .img6{
-    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .5)), url(gallery2.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .2) , rgba(0, 0, 0, .5)), url(image/gallery2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   /*Gallery saction close*/
-
 
 
 
