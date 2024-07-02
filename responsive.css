@@ -1,0 +1,12 @@
+@media screen and (max-width:1000px){
+  .logo h2 {
+    font-size:30px;
+  }
+  .responsive-icon{
+    display: inline-block;
+    justify-content: last baseline;
+  }
+  .menu ul{
+    display:none;
+  }
+}
